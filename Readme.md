@@ -1,2 +1,3 @@
 #Github
-github para iniciantes ou inicidepois
+github para iniciantes:
+ Saiba mais em ....
