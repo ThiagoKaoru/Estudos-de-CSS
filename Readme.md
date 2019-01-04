@@ -1,3 +1,1 @@
-#Github
-github para iniciantes:
- Saiba mais em ....
+Estudo foca em CSS e Html5
