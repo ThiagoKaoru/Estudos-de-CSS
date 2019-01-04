@@ -1,1 +1,1 @@
-Estudo foca em CSS e Html5
+Estudo foca em CSS e HTML5
