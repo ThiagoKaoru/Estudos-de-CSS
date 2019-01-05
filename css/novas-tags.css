@@ -1,0 +1,27 @@
+header{
+    border:  1px solid gray;
+    background: lightslategray;
+    padding: 10px;
+}
+nav{
+    border: 1px solid black;
+    background: lightsteelblue;
+    padding: 10px;
+}
+article{
+    border: 3px solid darkblue;
+    background: lightgreen;
+}
+footer{
+    background: lightcoral;
+    border: 1px solid black; 
+    font-size: 0.8em;
+}
+section{
+    background: greenyellow;
+    border: 2px double black;
+}
+aside{
+    background:lightpink;
+    border: 1px dotted palevioletred;
+}
